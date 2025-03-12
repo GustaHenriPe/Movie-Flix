@@ -1,4 +1,4 @@
-CREATE TABLE movie(
+CREATE TABLE movie (
     id serial PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
     description text,
